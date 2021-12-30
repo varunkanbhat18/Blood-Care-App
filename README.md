@@ -1,5 +1,5 @@
 # Project Title
-Blood Care- To design an efficient way to connect Donors and Recipients
+Blood Care - To design an efficient way to connect Donors and Recipients
 
 ## Project Description
 An android based application to provide fast, easily accessible, safest, most reliable and most cost-effective system for patients and donors. The main aim of developing this 

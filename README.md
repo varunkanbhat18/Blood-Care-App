@@ -9,7 +9,7 @@ for the compatible blood types with their blood group and the required donors or
 ## Getting Started
 
 ## Built With
-1. Android Studio - The programming language used
+1. Android Studio - The IDE used for the project
 2. Firebase - Online database facility
 3. Java Developer Kit (JDK)
 4. Adobe XD - Creation of UI design

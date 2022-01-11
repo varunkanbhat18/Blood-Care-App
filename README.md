@@ -6,7 +6,6 @@ An android based application to provide fast, easily accessible, safest, most re
 application is to reduce the time to a great extent that is spent in searching for the right donor and the availability of blood required. The users will also be able to check 
 for the compatible blood types with their blood group and the required donors or seekers nearby them.
 
-## Getting Started
 
 ## Built With
 1. Android Studio - The IDE used for the project
